@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\net6.0-windows\ComboBoxKontrola.exe
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\net6.0-windows\ComboBoxKontrola.deps.json
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\net6.0-windows\ComboBoxKontrola.runtimeconfig.json
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\net6.0-windows\ComboBoxKontrola.dll
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\net6.0-windows\ComboBoxKontrola.pdb
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.Form1.resources
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.AssemblyInfo.cs
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.dll
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\refint\ComboBoxKontrola.dll
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.pdb
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ComboBoxKontrola.genruntimeconfig.cache
+C:\Users\HP\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\net6.0-windows\ref\ComboBoxKontrola.dll
